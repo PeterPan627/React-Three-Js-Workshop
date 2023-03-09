@@ -64,4 +64,4 @@ function Foo() {
 ```
 
 <h2>Etape 5:</h2><br>
-Amusez vous !
+Amusez vous ! Si ce workshop vous a plus, hésitez pas a star le repo ! :)
