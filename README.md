@@ -13,7 +13,11 @@ Cloner le repo !<br><br>
 ```
 git clone git@github.com:RayanBn/React-Three-Js-Workshop.git
 ```
-pour la compilation :
+Etapes a suivre pour compiler :
+
+```
+npm install
+```
 
 ```
 npm run dev
