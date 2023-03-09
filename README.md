@@ -51,6 +51,8 @@ camera={ {
     position: [ -4, 3, 6 ]
 } }
 ```
+Le but ici est de pouvoir creer un controle de camera, ce qui va vous permettre de tourner au tour de votre scene ! (OrbitControl)
+
 
 <h2>Etape 4 :</h2><br>
 
