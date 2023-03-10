@@ -41,7 +41,6 @@ https://docs.pmnd.rs/react-three-fiber/getting-started/your-first-scene#adding-l
 
 <h2>Step 3 :</h2><br>
 
-Mouvement de la camera, dans votre objet Canva du fichier index.js, une camera a deja été ajouté a la scene. A vous de vous informer sur celle-ci et de pouvoir la modifier et la manipuler a votre guise !
 Camera movement, in your canva object of the index.js file, a camera has already been added to the scene. It is up to you to learn about it and to be able to modify and manipulate it as you wish!
 
 ```js
