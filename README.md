@@ -1,19 +1,19 @@
 # React-Three-Js-Workshop
 
 <h1>Introduction</h1>
-Salut !<br>
-Bienvenue dans notre Workshop. Aujourd'hui vous allez aborder les bases de React ThreeJS.<br>
-Pour éviter de vous y perdre, suivez les différentes étapes unes par unes :).
+Hi ! !<br>
+Welcome to our workshop. Today we are gonna learn the basic of React ThreeJS.<br>
+In order to not get lost during the Workshop, please follow the steps below.
 
 <br>
 <br>
-<h2>Etape 1 :</h2>
-Cloner le repo !<br><br>
+<h2>Step 1 :</h2>
+Clone the repo ! <br><br>
 
 ```
 git clone git@github.com:RayanBn/React-Three-Js-Workshop.git
 ```
-Etapes a suivre pour compiler :
+Steps to follow for compiling :
 
 ```
 npm install
@@ -23,9 +23,9 @@ npm install
 npm run dev
 ```
 
-<h2>Etape 2 :</h2>
+<h2>Step 2 :</h2>
 <br>
-Commencons par apprendre a creer des objets. (Experience.js)<br><br>
+Let's begin by creating objects (Experience.js)<br><br>
 
 ```js
 <mesh>
@@ -34,14 +34,15 @@ Commencons par apprendre a creer des objets. (Experience.js)<br><br>
 </mesh>
 ```
 
-A vous de jouer avec les parametre de l'objet, pour obtenir le resultat qui vous plait !
-Une fois l'objet créé, vous pourrez constater que sa couleur ne s'apliquera pas.
-Pour régler ce soucis, vous devez ajouter des lumières a votre scene.<br><br>
+Now it's your turn to play with the object parameters to get the result you like the most !
+When the object will be created, you will notice that its color won't apply.
+In order to fix this issue, you have to add lights to your scene.<br><br>
 https://docs.pmnd.rs/react-three-fiber/getting-started/your-first-scene#adding-lights
 
-<h2>Etape 3 :</h2><br>
+<h2>Step 3 :</h2><br>
 
 Mouvement de la camera, dans votre objet Canva du fichier index.js, une camera a deja été ajouté a la scene. A vous de vous informer sur celle-ci et de pouvoir la modifier et la manipuler a votre guise !
+Camera movement, in your canva object of the index.js file, a camera has already been added to the scene. It is up to you to learn about it and to be able to modify and manipulate it as you wish!
 
 ```js
 camera={ {
@@ -52,12 +53,13 @@ camera={ {
 } }
 ```
 Le but ici est de pouvoir creer un controle de camera, ce qui va vous permettre de tourner au tour de votre scene ! (OrbitControl)
+The goal here is to be able to create a camera control, that will allow us to turn around our scene ! (OrbitControl)
 
 
-<h2>Etape 4 :</h2><br>
+<h2>Step 4 :</h2><br>
 
-Essayons maintenant de faire bouger les objects present sur notre scene. Pour pouvoir interagir avec les objets de notre scene en react, nous avons besoin d'utiliser des Hooks.
-Le Hook le plus utilisé en React Three est UseFrame, celui-ci va prendre en parametre une fonction qui va etre appelé a chaque frame de votre scene. Voici un lien qui va vous permettre d'apprendre à l'utiliser:<br><br>
+Now let's try to make the objects on our scene move. In order to interact with the objects in our scene in react, we need to use hooks.
+The most used Hook in React Three is UseFrame, this one will take a function that will be called at each frame of your scene. Here is a link to learn how to use it:<br><br>
 https://docs.pmnd.rs/react-three-fiber/api/hooks#useframe
 <br>
 ```js
@@ -69,5 +71,5 @@ function Foo() {
 })
 ```
 
-<h2>Etape 5:</h2><br>
-Amusez vous ! Si ce workshop vous a plus, hésitez pas a star le repo ! :)
+<h2>Step 5:</h2><br>
+Enjoy ! If you liked this workshop, don't hesitate to star the repository :) !
