@@ -51,7 +51,6 @@ camera={ {
     position: [ -4, 3, 6 ]
 } }
 ```
-Le but ici est de pouvoir creer un controle de camera, ce qui va vous permettre de tourner au tour de votre scene ! (OrbitControl)
 The goal here is to be able to create a camera control, that will allow us to turn around our scene ! (OrbitControl)
 
 
