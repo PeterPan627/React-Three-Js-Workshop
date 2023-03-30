@@ -71,3 +71,4 @@ function Foo() {
 
 <h2>Step 5:</h2><br>
 Enjoy ! If you liked this workshop, don't hesitate to star the repository :) !
+<a href="https://github.com/RayanBn/React-Three-Js-Workshop2">Workshop 2</a>
