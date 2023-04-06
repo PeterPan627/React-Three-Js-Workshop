@@ -8,6 +8,12 @@ In order to not get lost during the Workshop, please follow the steps below.
 <br>
 <br>
 <h2>Step 1 :</h2>
+First, you need to install node !
+
+```
+sudo dnf install nodejs
+```
+
 Clone the repo ! <br><br>
 
 ```
